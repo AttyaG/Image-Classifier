@@ -22,5 +22,5 @@ Now deactivate env:
 Run app:
   python OOP_GUI.py
 How to use:
-- Choose an image
+- 'Choose an image of vehicle or man'
 - Get a prediction
