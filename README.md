@@ -13,8 +13,6 @@ I recomend to use virtual environment:
 To install all dependencies:
 - pip install -r requirements.txt
 
-Now deactivate env:
-  deactivate
 Run app:
   python OOP_GUI.py
 How to use:
