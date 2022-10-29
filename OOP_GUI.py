@@ -24,7 +24,7 @@ class my_Programm:
           6: 'Каток',
           7: 'Бульдозер'}
         
-        self.label = Label(master, text='First Label')
+        self.label = Label(master, text=''Choose an image \nof vehicle or man'')
         self.label.pack()
 
         self.file_choose_button = Button(master, text='Image',
